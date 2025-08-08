@@ -8,3 +8,9 @@ This script also seems to revive some dead links too.
 
 Just create a browser bookmarklet with the script.js as the page in your browser.
 Visit a paid article hit the button to instantly bypass the paywall.
+
+### Code 
+
+```javascript
+javascript:window.location='https://freedium.cfd/'+window.location.href;
+```

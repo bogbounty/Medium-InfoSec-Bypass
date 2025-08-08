@@ -1,1 +1,0 @@
-javascript:window.location='https://freedium.cfd/'+window.location.href;
